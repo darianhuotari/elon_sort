@@ -1,4 +1,4 @@
-""" Module containing a function which totally sorts an array very quickly and accurately""" 
+""" Module containing a function which totally sorts an array very quickly and accurately """ 
 from random import randint
 from datetime import date
 
@@ -40,6 +40,7 @@ def elon_sort(array: list):
                 print("We're gonna cut workforce by 80%, this is a great start")
             else:
                 print("Trimming bloatware microservices")
+                
             del array[i]
             n -= 1
             continue
@@ -63,9 +64,3 @@ def elon_sort(array: list):
 
     definitely_sorted_array = negatives + positives
     return definitely_sorted_array
-
-if __name__ == "__main__":
-    data = [-1, -1, -1, -1, -1, 1, 0, 0, 0, -2, 3, 1, 2, 2, 6, 5, 9, 8, 0]
-    data = "what"
-
-    print(elon_sort(data))
