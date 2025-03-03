@@ -9,5 +9,5 @@ Call the function with an array as an input
 ## Testing:
 Run `tests.py`
 
-### Note
-This is obviously satirical
+### Note:
+If this made you laugh, it did it's job. And you shouldn't use this.
