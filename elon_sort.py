@@ -11,7 +11,6 @@ def elon_sort(array: list):
         A definitely-sorted array which has additional optimizations
 
     """
-    # add fully automated self driving coming {next year}
 
     if not isinstance(array, list):
         raise ValueError("You can only sort lists, what do you even do around here, you're fired")

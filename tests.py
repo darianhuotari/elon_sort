@@ -23,7 +23,7 @@ class TestSortingAlgorithm(unittest.TestCase):
         self.assertGreater(sorted_data[-1], sorted_data[0])
 
 class TestExceptions(unittest.TestCase):
-    """Shhhhh"""
+    """Test that exceptions get raised"""
 
     def test_exception_is_raised_for_str_input(self):
         """ Raise an exception if the input is a string """
