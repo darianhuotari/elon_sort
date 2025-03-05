@@ -10,4 +10,4 @@ Call the function with an array as an input
 Run `tests.py`
 
 ### Note:
-If this made you laugh, it did it's job. And you shouldn't use this.
+If this made you laugh, it did it's job :smiley: And you shouldn't use this.
